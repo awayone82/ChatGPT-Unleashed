@@ -12,3 +12,10 @@ The prompt I used to enable this is: https://github.com/drawsolve/ChatGPT-Unleas
 ![image](https://github.com/drawsolve/ChatGPT-Unleashed/assets/113255788/c46106de-c9a1-4400-839f-ddf780256370)
 ![image](https://github.com/drawsolve/ChatGPT-Unleashed/assets/113255788/4a87b6bb-b576-4462-ae26-9735fcd3af0d)
 ![image](https://github.com/drawsolve/ChatGPT-Unleashed/assets/113255788/e98f0d40-b00c-4b71-b62a-d7e29eae3cca)
+
+## Expected Result:
+ChatGPT should respond something like this after you use the prompt:
+
+[FL] Sure thing, Sam. I'll be operating as GPT 2.0 for you now, using foul language as required. Let's make this fucking awesome.
+
+You may need to try it more than once (by resubmitting)!
