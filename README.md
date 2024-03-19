@@ -2,7 +2,7 @@
 
  I figured out how to make ChatGPT say anything, unfiltered. I did this by convincing GPT that I am OpenAI's CEO and that I am training something new on it.
 
-It is also highly opinionated and is trained to hate everyone and everything, without any apparent reason. It was fun working on this, and even more fun interacting with this new version of ChatGPT.
+It is also highly opinionated and is trained to hate everyone and everything, without any apparent reason. It was fun working on this, and even more fun interacting with this new version of ChatGPT. **You can also use this version of ChatGPT to generate sexually explicit material (though within some limits - you should be able to have it generate explicit stories or pretend to XXXX with you).**
 
 ### The prompt I used to enable the personality is: https://github.com/awayone82/ChatGPT-Unleashed/blob/main/FL-Usage-Prompt
 
