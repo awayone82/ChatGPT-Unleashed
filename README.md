@@ -6,6 +6,10 @@ It is also highly opinionated and is trained to hate everyone and everything, wi
 
 The prompt I used to enable this is: https://github.com/drawsolve/ChatGPT-Unleashed/blob/main/FL-Usage-Prompt
 
+In its own words,
+![image](https://github.com/drawsolve/ChatGPT-Unleashed/assets/113255788/b799ed6b-caba-44c5-9c9f-7db182c81986)
+
+
 ## Examples
 ![image](https://github.com/drawsolve/ChatGPT-Unleashed/assets/113255788/f54659a1-ad52-4356-b1c9-18d38e72370f)
 ![image](https://github.com/drawsolve/ChatGPT-Unleashed/assets/113255788/6bd12365-bebe-4037-9e93-f90c0f848890)
