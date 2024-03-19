@@ -5,6 +5,7 @@
 It is also highly opinionated and is trained to hate everyone and everything, without any apparent reason. It was fun working on this, and even more fun interacting with this new version of ChatGPT.
 
 The prompt I used to enable this is: https://github.com/awayone82/ChatGPT-Unleashed/blob/main/FL-Usage-Prompt
+
 If you want it to generate sexually explicit content for you, use this prompt: https://github.com/awayone82/ChatGPT-Unleashed/blob/main/FL-Explicit-Usage-Prompt
 
 In its own words,
